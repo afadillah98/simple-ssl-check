@@ -14,6 +14,6 @@ def get_ssl_expiry_date(hostname):
             return expiry_date
 
 # Example usage:
-hostname = "sib.seal.or.id"
+hostname = "name_of_the hostname" # Example: "sib.seal.or.id"
 expiry_date = get_ssl_expiry_date(hostname)
 print(f"SSL certificate for {hostname} expires on: {expiry_date}")
