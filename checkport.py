@@ -14,6 +14,6 @@ def check_port(host, port):
         print(f"Port {port} is closed on {host}")
 
 if __name__ == "__main__":
-    host = "example.com"  # Change to the host you want to check
+    host = "sib.seal.or.id"  # Change to the host you want to check
     port = 80  # Change to the port you want to check
     check_port(host, port)
