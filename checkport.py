@@ -1,6 +1,6 @@
 import socket
 
-def check_port(host, port):
+def check_port(sib.seal.or.id, port):
     try:
         # Create a socket object
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
